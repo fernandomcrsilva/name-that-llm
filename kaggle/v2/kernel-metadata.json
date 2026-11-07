@@ -1,0 +1,15 @@
+{
+  "id": "fernandomcrsilva/name-that-llm-qwen3-tfidf-hungarian",
+  "title": "Name That LLM Qwen3 TFIDF Hungarian",
+  "code_file": "submission_kernel.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [],
+  "competition_sources": ["name-that-llm"],
+  "kernel_sources": [],
+  "model_sources": ["qwen-lm/qwen-3/transformers/1.7b/1"]
+}
